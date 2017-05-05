@@ -38,21 +38,21 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
-.Users-section {
+.Users {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #eee;
 }
 
-.In_Stock-section {
+.In_Stock {
     height: 100%;
     padding-top: 150px;
     text-align: center;
     background: #fff;
 }
 
-.Add_book-section {
+.Add_book {
     height: 100%;
     padding-top: 150px;
     text-align: center;
