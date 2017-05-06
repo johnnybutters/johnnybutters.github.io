@@ -77,7 +77,7 @@
                     <input type="password" class="form-control input-sm" placeholder="Password Here" /> -->
             <!-- /.navbar-collapse -->
         </div>
-        <button type="sumbit" class="btn btn-success">Login</button>
+        <!-- <button type="sumbit" class="btn btn-success">Login</button> -->
         <!-- /.container -->
     </nav>
 
