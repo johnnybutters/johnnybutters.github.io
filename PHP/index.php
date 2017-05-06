@@ -62,9 +62,6 @@
                     <li>
                         <a class="page-scroll" href="#AddBook">Add Book</a>
                     </li>
-                    <li>
-                        <a href="#login.php">Login</a>
-                    </li>
                 </ul>
                 <!-- <form class="navbar-form navbar-left" role="form">
                   <div class="input-group">
