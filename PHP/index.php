@@ -62,8 +62,11 @@
                     <li>
                         <a class="page-scroll" href="#AddBook">Add Book</a>
                     </li>
+                    <li>
+                        <a href="#login.php">Login</a>
+                    </li>
                 </ul>
-                <form class="navbar-form navbar-left" role="form">
+                <!-- <form class="navbar-form navbar-left" role="form">
                   <div class="input-group">
                     <span class="input-group-addon">
                       <span class="glyphicon glyphicon-user"></span>
@@ -74,7 +77,7 @@
                     <span class="input-group-addon">
                       <span class="glyphicon glyphicon-lock"></span>
                       </span>
-                    <input type="password" class="form-control input-sm" placeholder="Password Here" />
+                    <input type="password" class="form-control input-sm" placeholder="Password Here" /> -->
             <!-- /.navbar-collapse -->
         </div>
         <button type="sumbit" class="btn btn-success">Login</button>
