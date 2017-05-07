@@ -1,5 +1,6 @@
 <?php
-  session_start();
+  $db=mysqli_connect('librarydb.c5acs26g9zsx.us-west-2.rds.amazonaws.com','homelibrary','12345678','library')
+  or die('Error connecting to MySQL server.');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -100,6 +101,9 @@
             <div class="row">
                 <div class="col-lg-12">
                     <h1>Users</h1>
+                    <?php
+                      echo "hello";
+                     ?>
                 </div>
                   </div>
         </div>
